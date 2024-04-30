@@ -1,24 +1,78 @@
 {
-  "name": "@utilcode/simple-template-advanced-new",
+  "name": "@devtea2026/quo-odio-nobis-labore",
   "version": "1.0.0",
   "description": " ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Antwii1",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
-  },
   "dependencies": {
+    "@devtea2026/aspernatur-ea-non-porro": "^1.0.0",
+    "@devtea2026/consectetur-ab-unde-quisquam": "^1.0.0",
+    "@devtea2026/cupiditate-dolorem-excepturi-impedit": "^1.0.0",
+    "@devtea2026/dignissimos-fugit-expedita-cum": "^1.0.0",
+    "@devtea2026/distinctio-soluta-illo-eaque": "^1.0.0",
+    "@devtea2026/doloribus-eum-itaque-aliquid": "^1.0.0",
+    "@devtea2026/eum-ullam-est-distinctio": "^1.0.0",
+    "@devtea2026/explicabo-alias-architecto-sed": "^1.0.0",
+    "@devtea2026/improved-journey": "^1.0.1",
+    "@devtea2026/in-magni-in-voluptates": "^1.0.0",
+    "@devtea2026/inventore-facilis-corporis-cum": "^1.0.0",
+    "@devtea2026/ipsa-omnis-in-molestiae": "^1.0.0",
+    "@devtea2026/literate-computing-machine": "^1.1.0",
+    "@devtea2026/maxime-sequi-est-rem": "^1.0.0",
+    "@devtea2026/necessitatibus-dolorem-esse-atque": "^1.0.0",
+    "@devtea2026/nostrum-dolorem-labore-dolore": "^1.0.0",
+    "@devtea2026/odio-ipsum-cumque-asperiores": "^1.0.0",
+    "@devtea2026/odit-enim-reiciendis-pariatur": "^1.0.0",
+    "@devtea2026/odit-maxime-porro-asperiores": "^1.0.0",
+    "@devtea2026/possimus-ipsa-sint-consequuntur": "^1.0.0",
+    "@devtea2026/qui-quos-laborum-amet": "^1.0.0",
+    "@devtea2026/quia-ducimus-placeat-minima": "^1.0.0",
+    "@devtea2026/quidem-voluptate-repudiandae-necessitatibus": "^1.0.0",
+    "@devtea2026/rerum-quaerat-porro-animi": "^1.0.0",
+    "@devtea2026/ubiquitous-octo-memory": "^1.0.4",
     "@libphamton/chatfanpage": "1.0.5",
     "@libphamton/fb-group": "1.0.3",
+    "@npmtuanmap/ex-vel-expedita-impedit": "1.0.2",
     "@npmtuanmap/psychic-guide": "2.0.0",
     "@npmtuanmap/recusandae-recusandae-nam-et": "1.0.2",
     "@npmtuanmap/sed-quo-nemo-rerum": "1.0.2",
-    "@npmtuanmap/velit-esse-velit-magnam": "1.0.2",
-    "@npmtuanmap/ex-vel-expedita-impedit": "1.0.2"
-  }
+    "@npmtuanmap/velit-esse-velit-magnam": "1.0.2"
+  },
+  "keywords": [
+    "bdd",
+    "Function.prototype.name",
+    "fast-copy",
+    "ES2017",
+    "metadata",
+    "walking",
+    "prune",
+    "reducer",
+    "util",
+    "function",
+    "readable",
+    "debugger",
+    "import",
+    "irq",
+    "regex",
+    "toStringTag",
+    "workspace:*",
+    "xhr",
+    "language",
+    "es2016",
+    "kinesis",
+    "throat",
+    "enumerable",
+    "sequence",
+    "trimLeft"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devtea2026/quo-odio-nobis-labore.git"
+  },
+  "homepage": "https://github.com/devtea2026/quo-odio-nobis-labore/#readme",
+  "bugs": {
+    "url": "https://github.com/devtea2026/quo-odio-nobis-labore/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
