@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/quo-odio-nobis-labore",
-  "version": "4.2.36",
+  "version": "4.2.37",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -74,5 +74,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/quo-odio-nobis-labore/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
